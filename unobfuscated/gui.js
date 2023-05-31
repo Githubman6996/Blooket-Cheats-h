@@ -163,7 +163,7 @@
                     fontWeight: "700",
                     userSelect: "text"
                 },
-                innerHTML: "Created by OneMinesraft2#4560"
+                innerHTML: "Created by Mason"
             }),
             (controlButtons = createElement("div", {
                 id: "controlButtons",
